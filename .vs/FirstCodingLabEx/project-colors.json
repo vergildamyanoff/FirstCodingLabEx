@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18e3e9c9-9b10-4535-ac13-be258bc4b718": {
+      "ProjectGuid": "18e3e9c9-9b10-4535-ac13-be258bc4b718",
+      "DisplayName": "FirstCodingLabEx",
+      "ColorIndex": 0
+    },
+    "4cc91222-999e-45eb-9082-0d8e38653e72": {
+      "ProjectGuid": "4cc91222-999e-45eb-9082-0d8e38653e72",
+      "DisplayName": "2 - rad to degr",
+      "ColorIndex": 1
+    },
+    "2405ec98-dffb-4e6a-9ef5-205449b9ffdc": {
+      "ProjectGuid": "2405ec98-dffb-4e6a-9ef5-205449b9ffdc",
+      "DisplayName": "3 - Deposit Calculator",
+      "ColorIndex": 2
+    },
+    "01f9aeb8-b27d-4b86-865b-84ba5de5d8eb": {
+      "ProjectGuid": "01f9aeb8-b27d-4b86-865b-84ba5de5d8eb",
+      "DisplayName": "4 - Vacc book list",
+      "ColorIndex": 3
+    },
+    "54f7f833-3b46-4f05-96e6-12e8e5922449": {
+      "ProjectGuid": "54f7f833-3b46-4f05-96e6-12e8e5922449",
+      "DisplayName": "5 - Supp for school",
+      "ColorIndex": 4
+    },
+    "768e283d-00a0-43e4-a340-1bd34eb01208": {
+      "ProjectGuid": "768e283d-00a0-43e4-a340-1bd34eb01208",
+      "DisplayName": "6 - Repainting",
+      "ColorIndex": 5
+    },
+    "3d847294-91ed-452c-8ec4-1d0489f48166": {
+      "ProjectGuid": "3d847294-91ed-452c-8ec4-1d0489f48166",
+      "DisplayName": "7 - Food Delivery",
+      "ColorIndex": 6
+    },
+    "a0e718f0-2a7b-4259-8cb1-20d467ac3ab3": {
+      "ProjectGuid": "a0e718f0-2a7b-4259-8cb1-20d467ac3ab3",
+      "DisplayName": "8 - basketball",
+      "ColorIndex": 7
+    },
+    "007dea91-38f6-4014-9efb-22523c1b410b": {
+      "ProjectGuid": "007dea91-38f6-4014-9efb-22523c1b410b",
+      "DisplayName": "9 - Fish Tank",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
